@@ -10,6 +10,12 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.UEEFoodProtectionApp">
         <activity
+            android:name=".SearchFood"
+            android:exported="false" />
+        <activity
+            android:name=".RequestFoodlist"
+            android:exported="false" />
+        <activity
             android:name=".RequestFoodForm"
             android:exported="false" />
         <activity
