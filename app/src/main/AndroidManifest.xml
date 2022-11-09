@@ -10,7 +10,7 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.UEEFoodProtectionApp">
         <meta-data android:name="com.google.android.geo.API_KEY"
-             android:value="7AIzaSyDC-uWV64q7lKnCkFrOcLsW2R9RHfOdJrI"></meta-data>
+             android:value="AIzaSyBA1r-g75psTH0aOxNSURn0_awYm4I7Q2M"></meta-data>
         <activity
             android:name=".MapActivity"
             android:exported="false" />
